@@ -25,18 +25,21 @@ Secondary:
 - Inform policy-level process reforms
 
 3.Dataset:
-.720 rows of daily pipeline observation data
-.3-stage system flow (CBP Custody → HHS Care → Sponsor Discharge)
-.3 calendar years of comprehensive trend tracking
-.1,095 days of chronological program timeline history (covering January 2023 – December 2025)
+.720 rows of daily pipeline observation data.
+
+.3-stage system flow (CBP Custody → HHS Care → Sponsor Discharge).
+
+.3 calendar years of comprehensive trend tracking.
+
+.1,095 days of chronological program timeline history (covering January 2023 – December 2025).
 
 4.Features
-.Care Pipeline Flow Visualization (Caseload stock vs. daily flow tracking)
-.Transfer & Discharge Efficiency Panels (Rolling-average KPI trend metrics)
-.Bottleneck & Backlog Detection Alerts (Configurable caseload accumulation signals)
-.Temporal & Stability Analytics (Weekday vs. weekend patterns and month-over-month stability scores)
-.Policy Stakeholder Deliverables (Automated generation prompts for executive summaries and full research papers)
-.Advanced Pipeline EDA (Inflow/outflow imbalance matrix and case velocity mapping)
+.Care Pipeline Flow Visualization (Caseload stock vs. daily flow tracking).
+.Transfer & Discharge Efficiency Panels (Rolling-average KPI trend metrics).
+.Bottleneck & Backlog Detection Alerts (Configurable caseload accumulation signals).
+.Temporal & Stability Analytics (Weekday vs. weekend patterns and month-over-month stability scores).
+.Policy Stakeholder Deliverables (Automated generation prompts for executive summaries and full research papers).
+.Advanced Pipeline EDA (Inflow/outflow imbalance matrix and case velocity mapping).
 
 5.KPIs Tracked
 *KPI,Formula,What It Measures.
